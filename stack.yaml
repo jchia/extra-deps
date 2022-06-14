@@ -1,0 +1,8 @@
+resolver: lts-19.11
+
+packages:
+- .
+
+extra-deps:
+- git: https://github.com/jchia/binary.git
+  commit: dd621d70929ed57efbae5adf33ccf232f2961568
